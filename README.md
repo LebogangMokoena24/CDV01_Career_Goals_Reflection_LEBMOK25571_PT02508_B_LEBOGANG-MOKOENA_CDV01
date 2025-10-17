@@ -11,10 +11,12 @@
 
 1. **Skills Analysis**:
 **- List your current skills and areas of expertise.**
+
 My role as Class Representative at Johannesburg Business School has provided me with valuable leadership, communication, and organisational abilities.  My education in business administration has enhanced my analytical thinking, problem-solving skills, and financial literacy.  I'm also building a solid foundation in technology and coding through Codespace, where I'm learning HTML, CSS, and soon JavaScript, as well as gaining confidence with GitHub.  My ability to connect financial principles to technological applications has piqued my interest in fintech, which involves leveraging technology to innovate and improve financial institutions.
 
 **- Identify skills you need to develop or improve.**
- I aim to improve my technical abilities, especially in Python, data analytics, and financial modelling.  I'd also like to gain confidence in engaging in hackathons and collaborative tech projects to improve my problem-solving and cooperation abilities in technical settings.  In addition, I want to develop my adaptability and resilience when faced with challenges, particularly learning to view failure as a learning opportunity rather than a setback.
+
+I aim to improve my technical abilities, especially in Python, data analytics, and financial modelling.  I'd also like to gain confidence in engaging in hackathons and collaborative tech projects to improve my problem-solving and cooperation abilities in technical settings.  In addition, I want to develop my adaptability and resilience when faced with challenges, particularly learning to view failure as a learning opportunity rather than a setback.
 
 2. **Interests and Values**:
 **- Describe your key interests related to your career.**
