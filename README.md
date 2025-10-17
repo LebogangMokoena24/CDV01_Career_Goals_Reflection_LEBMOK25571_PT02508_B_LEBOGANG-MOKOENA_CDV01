@@ -9,7 +9,7 @@
 
 ### Part 1: Self-Assessment Reflection
 
-1. **Skills Analysis**:
+**1.** **Skills Analysis**:
 
 **- List your current skills and areas of expertise.**
 
@@ -19,7 +19,7 @@ My role as Class Representative at Johannesburg Business School has provided me 
 
 I aim to improve my technical abilities, especially in Python, data analytics, and financial modelling.  I'd also like to gain confidence in engaging in hackathons and collaborative tech projects to improve my problem-solving and cooperation abilities in technical settings.  In addition, I want to develop my adaptability and resilience when faced with challenges, particularly learning to view failure as a learning opportunity rather than a setback.
 
-2. **Interests and Values**:
+**2.** **Interests and Values**:
 **- Describe your key interests related to your career.**
 
 I am fascinated by the convergence of finance and technology, particularly fintech, where innovation and impact meet.  My professional interests involve exploring how digital transformation, data analytics, and financial technology may improve inclusion, efficiency, and transparency in financial services.  I am driven by the prospect of leveraging technology to make financial institutions more accessible and sustainable, while also expanding my business and technical knowledge.  
@@ -30,7 +30,7 @@ Integrity, ubuntu, and honesty are the principles that influence my work and int
 
 ### Part 2: Career Exploration Insights
 
-1. **Industries and Roles Explored**:
+**1.** **Industries and Roles Explored**:
 
 I looked at industries and roles at intersection of finance and tech.  My core area of focus is fintech, which includes digital banking, payments platforms, financial software development, and blockchain-based solutions.
 In addition, I have considered positions in investment banking and sales within financial services, which provide great exposure to corporate operations, customer engagement, and financial markets.
@@ -49,7 +49,7 @@ In addition, I have considered positions in investment banking and sales within 
 
 These roles excite me because they combine my passion for finance with my growing skills in coding and technology, and they provide opportunities to make a tangible impact on business and clients.
 
-2. **Alignment with Personal Profile**:
+**2.** **Alignment with Personal Profile**:
 
 **- Reflect on how these industries/roles align with your skills, interests, and values.**
 
@@ -71,7 +71,7 @@ These industries and roles significantly match my abilities, interests, and valu
 
 ### Part 3: SMART Career Goals
 
-1. **Short-term Goals** (Next 1-2 years):
+**1.** **Short-term Goals** (Next 1-2 years):
 
  **Goal 1: Obtain a position in a bank's IT or technology department within the next 12 months.**
 
@@ -119,13 +119,13 @@ I did not apply the SMART method to my long-term goals because people grow and c
 
 ### Part 4: Action Plan
 
-1. **Steps to Achieve Short-term Goals**:
+**1.** **Steps to Achieve Short-term Goals**:
 
 In order to fulfil my short-term goal of landing a job in a bank's IT or technology division, I will look into internships and apply for interships and  jobs that integrate technology and finance, including those for IT analysts or developers.  I'll revamp my resume and LinkedIn profile to reflect both my finance background and my new coding talents, which include Python, Java, and data analysis.  I plan to network with banking IT experts through LinkedIn, university alumni, and industry events, as well as seek mentorship from individuals working at the interface of finance and technology, to learn practical skills and career assistance.  Preparing for interviews will entail practicing coding problems, technical exams, and financial case studies.Resources that will help me achieve my goal include online coding platforms, university career services, professional networking platforms, and mentorship opportunties.
 
 To enhance my technical coding abilities and participate in at least one hackathon, I plan to spend a consistent amount of time each week learning Python, Java, APIs, and data analytics through Codespace exercises and online classes.  I will look for upcoming hackathons or coding competitions and register to join, working with peers to practise problem solving, teamwork, and technical communication.  I will also document and reflect on the problems encountered during these exercises and hackathons in order to develop resilience, confidence, and the ability to deal with failure constructively.  This goal's resources include Codespace, online tutorials, hackathon platforms, and peer support networks.
 
-2. **Preparation for Long-term Goals**:
+**2.** **Preparation for Long-term Goals**:
 
 To prepare for a strategic or technical job at a fintech company, I will acquire hands-on experience in banking IT and develop knowledge of real-world financial systems and digital operations.  I plan to create a portfolio of coding projects that demonstrate how to apply technology to financial challenges using Python and Java.  Staying up to date on fintech developments through webinars, workshops, conferences, and industry publications, as well as networking with industry professionals, will be critical for learning about developing skills and opportunities.  To increase credibility, additional preparation could include acquiring certifications in data analytics, Python, Java, or financial technology platforms.
 
@@ -133,14 +133,19 @@ To prepare for leading projects or initiatives that improve financial accessibil
 
 ### Part 5: Reflection on Challenges and Opportunities
 
-1. **Anticipated Challenges**:
+**1.** **Anticipated Challenges**:
     
-    **- Identify potential obstacles or challenges in reaching your goals.**
-    **- Consider strategies to overcome these challenges.**
-2. **Opportunities for Growth**:
-    
-    **- Highlight any opportunities you can leverage for career growth.**
-    **- Include networking, mentorship, or educational opportunities.**
+**- Identify potential obstacles or challenges in reaching your goals.**
+
+One of the most difficult hurdles I anticipate in achieving my career goals is overcoming the fear of participating in hackathons and public coding exercises.  I occasionally struggle with the prospect of failing in front of others, which might undermine my confidence while attempting new technical tasks.  Furthermore, mastering coding languages such as Python and Java and using them in real-world financial scenarios necessitates constant practice and devotion, which can be challenging to manage with other duties.  Another major hurdle is getting practical experience in fintech or banking IT, as competitive employment may necessitate networking, strong technical abilities, and previous project experience.  
+
+**- Consider strategies to overcome these challenges.**
+
+To overcome these obstacles, I intend to gradually participate in coding projects and hackathons, beginning with smaller, less-pressured contexts to gain confidence.  I will seek mentoring and peer support to help me learn and provide constructive criticism.  Setting reasonable learning targets and managing my time will allow me to gradually improve my coding and financial technology skills.
+
+**2.** **Opportunities for Growth**:
+
+There are various chances that I can take advantage of to help me advance my profession and overcome obstacles.  I'm learning HTML, CSS, and Java with Codespace, which offers a controlled setting for developing technical abilities and applying them to finance-related projects.  Participating in coding exercises, mini-projects, and eventually hackathons will allow me to gradually tackle my fear of failure in public, gain confidence, and improve my problem-solving skills.  Networking with colleagues and mentors at Codespace, as well as specialists in banking IT and fintech, will provide assistance, feedback and future career prospects.  Furthermore, remaining updated about upcoming fintech trends and implementing the technical skills I learn will allow me to pursue significant positions that integrate my interests in finance and technology.
 
 
 
