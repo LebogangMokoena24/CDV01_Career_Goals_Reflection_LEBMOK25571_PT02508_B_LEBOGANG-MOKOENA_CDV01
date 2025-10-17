@@ -1,5 +1,5 @@
 
-# Career Goals Reflection Template
+# Career Goals Reflection 
 ### Personal Information
 
 - **Name:** Lebogang Mokoena 
@@ -10,6 +10,7 @@
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
+
 **- List your current skills and areas of expertise.**
 
 My role as Class Representative at Johannesburg Business School has provided me with valuable leadership, communication, and organisational abilities.  My education in business administration has enhanced my analytical thinking, problem-solving skills, and financial literacy.  I'm also building a solid foundation in technology and coding through Codespace, where I'm learning HTML, CSS, and soon JavaScript, as well as gaining confidence with GitHub.  My ability to connect financial principles to technological applications has piqued my interest in fintech, which involves leveraging technology to innovate and improve financial institutions.
@@ -20,9 +21,11 @@ I aim to improve my technical abilities, especially in Python, data analytics, a
 
 2. **Interests and Values**:
 **- Describe your key interests related to your career.**
+
 I am fascinated by the convergence of finance and technology, particularly fintech, where innovation and impact meet.  My professional interests involve exploring how digital transformation, data analytics, and financial technology may improve inclusion, efficiency, and transparency in financial services.  I am driven by the prospect of leveraging technology to make financial institutions more accessible and sustainable, while also expanding my business and technical knowledge.  
 
 **- What values are important to you in a work environment?**
+
 Integrity, ubuntu, and honesty are the principles that influence my work and interactions with people.  I cherish cooperation, lifelong learning, and places that foster creativity and ethical leadership.  I am drawn to organisations that use finance and technology to better people's lives, empower communities, and drive positive change.
 
 ### Part 2: Career Exploration Insights
@@ -33,16 +36,23 @@ I looked at industries and roles at intersection of finance and tech.  My core a
 In addition, I have considered positions in investment banking and sales within financial services, which provide great exposure to corporate operations, customer engagement, and financial markets.
 
 **Potential roles that interest me include:**
+
 -IT Analyst or Developer in a banking environment
+
 -Fintech Product Manager or Business Analyst
+
 -Data Analyst or Financial Technology Specialist
+
 -Investment Banking Analyst
+
 -Sales roles in financial or fintech companies
+
 These roles excite me because they combine my passion for finance with my growing skills in coding and technology, and they provide opportunities to make a tangible impact on business and clients.
 
 2. **Alignment with Personal Profile**:
 
 **- Reflect on how these industries/roles align with your skills, interests, and values.**
+
 These industries and roles significantly match my abilities, interests, and values:
 
 **-Skill alignment:** Fintech and investment banking roles require both financial understanding and coding/technical abilities, allowing me to contribute to digital transformation and business solutions.
@@ -54,7 +64,9 @@ These industries and roles significantly match my abilities, interests, and valu
  **- Identify any gaps or areas for further exploration.**
 
 -I need to improve my coding skills, especially in Python, APIs, and data analysis.
+
 -I'd like to obtain practical experience by taking part in hackathons, coding projects, or internships in fintech and investment banking.
+
 -I want to gain confidence in presenting technical solutions and working with cross-functional teams.   
 
 ### Part 3: SMART Career Goals
@@ -77,27 +89,27 @@ Rationale : Working at a bank's IT department will provide me with real experien
  
  **Goal 2:  Improve your technical coding skills by participating in at least one hackathon during the next year.**
 
- Specific: Concentrate on  CSS, Java Script, Python, data analytics, and fintech-related development projects.
+ -Specific: Concentrate on  CSS, Java Script, Python, data analytics, and fintech-related development projects.
 
- Measurable: Attend one hackathon and track your progress with code projects or certificates.
+ -Measurable: Attend one hackathon and track your progress with code projects or certificates.
 
- Achievable: I am actively learning through Codespace and set time aside weekly for practice.
+ -Achievable: I am actively learning through Codespace and set time aside weekly for practice.
 
- Relevant: Increases my ability to contribute to technical financial projects.
+ -Relevant: Increases my ability to contribute to technical financial projects.
 
- Timeframe: Within 12 months.
+ -Timeframe: Within 12 months.
 
 Rationale: Improving my coding abilities in various languages, data analytics, and fintech-related projects would help me become more competent in technical roles and confident in bringing technology to financial solutions.  Participating in a hackathon will push me to use these skills in real-world situations, improve my problem-solving abilities and conquer my fear of failing in front of others.
 
 2. **Long-term Goals** (3-5 years and beyond):
     
-Goal 1: Work in a fintech company as a strategic or technical leader, combining finance skills with technology solutions.
+-Goal 1: Work in a fintech company as a strategic or technical leader, combining finance skills with technology solutions.
 
 This is consistent with my interests in fintech, innovation, and using technology to make a real financial impact.
 
 By gaining expertise in banking IT and establishing strong technical abilities, I will be prepared to take on more advanced fintech roles.
 
-Goal 2: Lead projects or initiatives that promote financial accessibility and inclusiveness.
+-Goal 2: Lead projects or initiatives that promote financial accessibility and inclusiveness.
 
 This contributes to my personal objective of living an influential life and resonates with my values of integrity, ubuntu, and collaboration.
 
@@ -108,13 +120,16 @@ I did not apply the SMART method to my long-term goals because people grow and c
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    **- Detail specific actions or steps needed to achieve each short-term goal.**
-    **- Include any resources or support required.**
+
+In order to fulfil my short-term goal of landing a job in a bank's IT or technology division, I will look into internships and apply for interships and  jobs that integrate technology and finance, including those for IT analysts or developers.  I'll revamp my resume and LinkedIn profile to reflect both my finance background and my new coding talents, which include Python, Java, and data analysis.  I plan to network with banking IT experts through LinkedIn, university alumni, and industry events, as well as seek mentorship from individuals working at the interface of finance and technology, to learn practical skills and career assistance.  Preparing for interviews will entail practicing coding problems, technical exams, and financial case studies.Resources that will help me achieve my goal include online coding platforms, university career services, professional networking platforms, and mentorship opportunties.
+
+To enhance my technical coding abilities and participate in at least one hackathon, I plan to spend a consistent amount of time each week learning Python, Java, APIs, and data analytics through Codespace exercises and online classes.  I will look for upcoming hackathons or coding competitions and register to join, working with peers to practise problem solving, teamwork, and technical communication.  I will also document and reflect on the problems encountered during these exercises and hackathons in order to develop resilience, confidence, and the ability to deal with failure constructively.  This goal's resources include Codespace, online tutorials, hackathon platforms, and peer support networks.
+
 2. **Preparation for Long-term Goals**:
-    
-    **- Describe the preparations or groundwork necessary for your long-term aspirations.**
-    **- Consider additional skills, experiences, or qualifications needed.**
+
+To prepare for a strategic or technical job at a fintech company, I will acquire hands-on experience in banking IT and develop knowledge of real-world financial systems and digital operations.  I plan to create a portfolio of coding projects that demonstrate how to apply technology to financial challenges using Python and Java.  Staying up to date on fintech developments through webinars, workshops, conferences, and industry publications, as well as networking with industry professionals, will be critical for learning about developing skills and opportunities.  To increase credibility, additional preparation could include acquiring certifications in data analytics, Python, Java, or financial technology platforms.
+
+To prepare for leading projects or initiatives that improve financial accessibility and inclusion, I plan to volunteer or collaborate on projects that use technology to empower people financially.  I plan to continue honing my leadership, project management, and communication abilities through academic projects, internships, and Codespace. Monitoring breakthrough financial solutions and studying how to implement them in real-world situations will help me match my talents with industry-relevant prospects.  Mentorship, professional networks, industry publications, and hands-on project experience are all valuable resources and assistance for long-term readiness.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
