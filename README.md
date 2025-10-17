@@ -28,13 +28,34 @@ Integrity, ubuntu, and honesty are the principles that influence my work and int
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
-    
-   **-List the industries or roles you have researched.**
-    **- Note any particular areas that piqued your interest.**
+
+I looked at industries and roles at intersection of finance and tech.  My core area of focus is fintech, which includes digital banking, payments platforms, financial software development, and blockchain-based solutions.
+In addition, I have considered positions in investment banking and sales within financial services, which provide great exposure to corporate operations, customer engagement, and financial markets.
+
+**Potential roles that interest me include:**
+-IT Analyst or Developer in a banking environment
+-Fintech Product Manager or Business Analyst
+-Data Analyst or Financial Technology Specialist
+-Investment Banking Analyst
+-Sales roles in financial or fintech companies
+These roles excite me because they combine my passion for finance with my growing skills in coding and technology, and they provide opportunities to make a tangible impact on business and clients.
+
 2. **Alignment with Personal Profile**:
+
+**- Reflect on how these industries/roles align with your skills, interests, and values.**
+These industries and roles significantly match my abilities, interests, and values:
+
+**-Skill alignment:** Fintech and investment banking roles require both financial understanding and coding/technical abilities, allowing me to contribute to digital transformation and business solutions.
+
+**-Interests alignment:** Working in these areas helps me to discover new ideas, analyse market dynamics, and build a successful career combining finance and technology.
+
+**-Values alignment:** I am drawn to cultures that value integrity, ubuntu, honesty, and teamwork, all of which are essential to ethical financial and technological success.
     
-    **- Reflect on how these industries/roles align with your skills, interests, and values.**
-    **- Identify any gaps or areas for further exploration.**
+ **- Identify any gaps or areas for further exploration.**
+
+-I need to improve my coding skills, especially in Python, APIs, and data analysis.
+-I'd like to obtain practical experience by taking part in hackathons, coding projects, or internships in fintech and investment banking.
+-I want to gain confidence in presenting technical solutions and working with cross-functional teams.   
 
 ### Part 3: SMART Career Goals
 
