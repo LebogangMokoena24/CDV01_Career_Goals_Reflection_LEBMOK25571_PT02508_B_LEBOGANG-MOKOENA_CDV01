@@ -101,7 +101,7 @@ Rationale : Working at a bank's IT department will provide me with real experien
 
 Rationale: Improving my coding abilities in various languages, data analytics, and fintech-related projects would help me become more competent in technical roles and confident in bringing technology to financial solutions.  Participating in a hackathon will push me to use these skills in real-world situations, improve my problem-solving abilities and conquer my fear of failing in front of others.
 
-2. **Long-term Goals** (3-5 years and beyond):
+**2.** **Long-term Goals** (3-5 years and beyond):
     
 -Goal 1: Work in a fintech company as a strategic or technical leader, combining finance skills with technology solutions.
 
